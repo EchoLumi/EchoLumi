@@ -1,4 +1,4 @@
-<img src="/img/19.gif" alt="alt text" width="100%" height="100%">
+<img src="/img/19.gif" alt="alt text" width="100%" height="600px">
 
 
 
