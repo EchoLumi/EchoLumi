@@ -1,3 +1,7 @@
+<img src="/img/19.gif" alt="alt text" width="100%" height="100%">
+
+
+
 # About me？
 
 <p>本人热爱互联网和图形学，喜欢摄影、游戏、影视动画以及ACG文化<br>
