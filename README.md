@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F79BED&center=true&width=1080&height=100&lines=Print(%22%E4%BD%A0%E5%A5%BD+%EF%BC%81%E4%B8%96%E7%95%8C%22)" alt="Typing SVG" /></a>
 
-<img src="/img/19.gif" alt="alt text" width="100%" height="600px">
+<img src="/img/19.gif" alt="alt text" width="100%" height="600px" padding="auto">
 
 
 
