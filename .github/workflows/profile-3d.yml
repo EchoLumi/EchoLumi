@@ -1,0 +1,33 @@
+name: Generate 3D Contribution
+
+on:
+  # 手动触发
+  workflow_dispatch:
+  # 推送到 main 分支触发
+  push:
+    branches: ["main"]
+  # 每天 UTC 0 点触发（北京时间早 8 点）
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ✅ 允许写入仓库文件
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution
+        uses: yoshi389111/github-profile-3d-contrib@0.8.1
+        with:
+          USERNAME: EchoLumi
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: update 3D contribution graph" || echo "No changes to commit"
+          git push
