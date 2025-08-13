@@ -53,3 +53,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EchoLumi&theme=onedark&row=1&column=6" alt="Trophy" />
 </p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+</p>
