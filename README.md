@@ -29,7 +29,7 @@
 📧 **合作邮箱**：`cax520cccy@gmail.com`
 
 
-## 📚 正在学习的技术栈
+## 📚 正在学习
 
 <p align="center">
   <a href="https://skillicons.dev">
