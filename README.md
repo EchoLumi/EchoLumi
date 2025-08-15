@@ -54,3 +54,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EchoLumi&theme=onedark&row=1&column=6" alt="Trophy" />
 </p>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
