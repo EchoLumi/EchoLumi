@@ -49,7 +49,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EchoLumi&theme=onedark&row=1&column=6" alt="Trophy" />
 </p>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EchoLumi&bg_color=6aece3&color=000000&line=ffffff&point=403d3d&area=true&hide_border=true" alt="Activity Graph" />
