@@ -36,10 +36,6 @@
   <img src="https://streak-stats.demolab.com?user=EchoLumi&theme=radical" alt="GitHub Streak" height="160px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EchoLumi&theme=onedark&row=1&column=6" alt="Trophy" />
-</p>
-
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <p align="center">
