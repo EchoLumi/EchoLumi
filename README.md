@@ -1,8 +1,4 @@
-# EchoLumi`s Github提交记录
-
 ![](./profile-3d-contrib/profile-season-animate.svg)
-
-
 
 # 关于我
 <h3 align="center">
