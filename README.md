@@ -23,9 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EchoLumi&bg_color=6aece3&color=000000&line=ffffff&point=403d3d&area=true&hide_border=true" alt="Activity Graph" />
-</p>
 <!-- 打字动画标题 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
