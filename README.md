@@ -1,6 +1,6 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-## 技术栈
+## 技术栈 展示
 
 <p align="center">
   <a href="https://skillicons.dev">
